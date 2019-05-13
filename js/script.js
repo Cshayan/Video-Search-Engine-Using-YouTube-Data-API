@@ -22,7 +22,7 @@ $(function () {
                 part: 'snippet, id',
                 q: searchInput.val(),
                 type: 'video',
-                key: 'AIzaSyBUSrZIR4VgVOMaW7elp6zYEwteDBUWxuc'
+                key: 'YOUR API KEY'
 
             },
             function (data) {
